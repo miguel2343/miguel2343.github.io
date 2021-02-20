@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <CPU xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="ej-tipos-simples.xsd" 
+          arquitectura="x86">
+    <generacion>3000</generacion>
+    <marca>amd</marca>
+    <modelo>3550x</modelo>
+   </CPU>
