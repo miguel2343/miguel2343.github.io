@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <agenda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="agenda.xsd"  >
+ <contacto>
+    <nombre>miguel</nombre> 
+    <apellido tipo-apellido="primer">pintado</apellido>
+    <apellido tipo-apellido="segundo">castillo</apellido>
+    <telefono tipo-telefono="movil">222222222</telefono>
+    <telefono tipo-telefono="empresa">123456456</telefono>
+    <telefono tipo-telefono="fijo">112345678</telefono>
+    <email>qwerty@dsads.saa</email>
+    <genero>masculino</genero>
+    <edad>21</edad>
+    
+    
+ </contacto>
+</agenda>
