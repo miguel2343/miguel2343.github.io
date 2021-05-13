@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resumen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="resumen.xsd">
+    <idea-general>Almacenamiento de los documentos XML
+        <idea-principal>Mapeo como un campo CLOB en una BD Relacional
+            <idea-secundaria>Sólo se modifica cuando el documento completo es reemplazado.Y se mantiene el formato.
+                <detalles>No permite que se consulte la información.</detalles>
+            </idea-secundaria>
+        </idea-principal>
+        <idea-principal>Se almacenan los fichereos directamente
+            <idea-secundaria>No se puede consultar ni modificar la información mediante lenguajes.
+                <detalles>Se puede decir que no existe SGBD para que gestione la información.</detalles>
+            </idea-secundaria>
+        </idea-principal>
+        <idea-principal>Mapeo se basado en las tablas en una BD Relacional
+            <idea-secundaria>Complejas teorías y patrones para encajar objetos o estructuras jerarquizadas.
+                <detalles>Existen numerosos middlewares encargados de la transferencia de información entre estructuras XML y bases de datos relacionales.</detalles>
+            </idea-secundaria>
+        </idea-principal>
+        <idea-principal>Mapeo de forma nativa como tipo XML según define ISO
+            <idea-secundaria>Define cómo importar, almacenar, manipular y publicar datos XML en una BD SQL.
+                <detalles>Hay varios SGBD que soportan ISO XML.</detalles>
+            </idea-secundaria>
+        </idea-principal>
+        <idea-principal>Las bases de datos son nativas XML
+            <idea-secundaria>Soportan transacciones, acceso multi-usuario, lenguajes de consulta.
+                <detalles>Están diseñados especialmente para almacenar documentos XML.</detalles>
+            </idea-secundaria>
+        </idea-principal>
+    </idea-general>
+</resumen>
